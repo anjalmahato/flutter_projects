@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       home: Material(
         child: Center(
           child: Container(
-            child: Text("Hello World i am $name. flutter for $days"),
+            child: Text("Hello World i am $name. flutter for $days days"),
           ),
         ),
       ),
